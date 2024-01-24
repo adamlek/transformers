@@ -16,7 +16,7 @@ limitations under the License.
 
 * Changes, edits and so on:
 
-** Todos:
+* Todos:
 XLMRoBETaClassificationHead: tanh -> ReLU/LeakyReLU
 
 <p align="center">
