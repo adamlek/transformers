@@ -14,9 +14,9 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-* Changes, edits and so on:
+# Changes, edits and so on:
 
-* Todo:
+# Todo:
   
 - XLMRoBETaClassificationHead: tanh -> ReLU/LeakyReLU
 
